@@ -8,8 +8,8 @@ This project integrates object detection (YOLO) and image classification (CNN) t
 The system first detects objects using YOLO, crops the detected regions, and then classifies them based on their type and color using a custom-trained CNN model.
 ## Descriptions
 * Object Detection: finetune yolov8n
-* Classification: A ResNet50-based CNN model
-  ![Model Architecture](cnn.png)
+* Classification: A ResNet50-based CNN model <br/>
+<p align="center"> <img src="cnn.png" width=350 height=350 ><br/> </p>
 * End-to-End Pipeline: Combines detection and classification into a single workflow.
 <p align="center">
   <img src="output/output.gif" width=600><br/>
