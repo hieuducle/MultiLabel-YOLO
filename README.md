@@ -9,6 +9,7 @@ The system first detects objects using YOLO, crops the detected regions, and the
 ## Descriptions
 * Object Detection: finetune yolov8n
 * Classification: A ResNet50-based CNN model
+  <img src="cnn.png" alt="Model Architecture" width="500">
 * End-to-End Pipeline: Combines detection and classification into a single workflow.
 <p align="center">
   <img src="output/output.gif" width=600><br/>
