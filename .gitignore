@@ -1,4 +1,5 @@
 __pycache__
+trained_models/*.pt
 data_new
 output/*.mp4
 runs
