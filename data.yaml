@@ -1,0 +1,13 @@
+train: /home/amin/Downloads/last.v1i.yolov8/train/images
+val: /home/amin/Downloads/last.v1i.yolov8/valid/images
+test: /home/amin/Downloads/last.v1i.yolov8/test/images
+
+nc: 1
+names: ['0']
+
+roboflow:
+  workspace: 0-txitd
+  project: last-dfyxl
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/0-txitd/last-dfyxl/dataset/1

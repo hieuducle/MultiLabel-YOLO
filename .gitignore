@@ -1,0 +1,6 @@
+__pycache__
+data_new
+output/*.mp4
+runs
+video
+yolov8n.pt
